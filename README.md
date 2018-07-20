@@ -2,7 +2,7 @@
 
 ## Problem: 
 
-Given cadet's names along with the wave that they are in, create a roster for the school.
+Given cadet's names along with the wave that they are in, create a roster for the school. 
 
 ## Intent
 
